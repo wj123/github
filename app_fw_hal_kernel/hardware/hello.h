@@ -1,5 +1,6 @@
-ifndef ANDROID_HELLO_INTERFACE_H  
+#ifndef ANDROID_HELLO_INTERFACE_H  
 #define ANDROID_HELLO_INTERFACE_H  
+#endif
 #include <hardware/hardware.h>  
 
 __BEGIN_DECLS  
@@ -22,4 +23,3 @@ struct hello_device_t {
 
 __END_DECLS  
 
-#endif
