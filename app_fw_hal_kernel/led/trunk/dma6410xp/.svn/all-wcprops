@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/dma6410xp
+END
+init.rc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/trunk/dma6410xp/init.rc
+END
+init.dma6410xp.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/dma6410xp/init.dma6410xp.rc
+END
+dma6410xp.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/dma6410xp/dma6410xp.mk
+END
+init.goldfish.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/dma6410xp/init.goldfish.sh
+END
+AndroidProducts.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/dma6410xp/AndroidProducts.mk
+END
+AndroidBoard.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/dma6410xp/AndroidBoard.mk
+END
+BoardConfig.mk
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/dma6410xp/BoardConfig.mk
+END

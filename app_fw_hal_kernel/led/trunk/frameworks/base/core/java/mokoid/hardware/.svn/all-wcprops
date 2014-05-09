@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/frameworks/base/core/java/mokoid/hardware
+END
+LedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/frameworks/base/core/java/mokoid/hardware/LedManager.java
+END
+ILedService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/frameworks/base/core/java/mokoid/hardware/ILedService.aidl
+END

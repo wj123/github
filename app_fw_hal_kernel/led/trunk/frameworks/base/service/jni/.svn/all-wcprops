@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/frameworks/base/service/jni
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/frameworks/base/service/jni/Android.mk
+END
+com_mokoid_server_LedService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/frameworks/base/service/jni/com_mokoid_server_LedService.cpp
+END
