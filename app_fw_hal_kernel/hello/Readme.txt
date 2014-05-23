@@ -5,5 +5,6 @@ http://blog.csdn.net/luoshengyang/article/details/6578352 [在Ubuntu上为Androi
 http://blog.csdn.net/luoshengyang/article/details/6580267 [在Ubuntu上为Android系统内置Java应用程序测试Application Frameworks层的硬件服务]
 
 http://www.open-open.com/lib/view/open1325474381453.html [Android中HAL如何向上层提供接口总结]
+http://blog.csdn.net/luoshengyang/article/details/6642463 [Android系统进程间通信Binder机制在应用程序框架层的Java接口源代码分析]
 
 
