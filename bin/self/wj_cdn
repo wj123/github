@@ -1,0 +1,30 @@
+#!/bin/bash - 
+#===============================================================================
+#
+#          FILE: ls1.sh
+# 
+#         USAGE: ./ls1.sh 
+# 
+#   DESCRIPTION: 
+# 
+#       OPTIONS: ---
+#  REQUIREMENTS: ---
+#          BUGS: ---
+#         NOTES: ---
+#        AUTHOR: YOUR NAME (), 
+#  ORGANIZATION: 
+#       CREATED: 2014年05月16日 18:12
+#      REVISION:  ---
+#===============================================================================
+
+wj_cdn () {
+	local cnd=""
+	for (( i = 0; i < $1; i++ )); do
+		cnd="${cnd}../" 
+	done
+	cd "$cnd"
+}
+
+alias cdn=wj_cdn
+
+
