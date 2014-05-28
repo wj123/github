@@ -1,0 +1,13 @@
+LTE upload 测试方法：
+
+step1:连接MUL与8475A；
+step2:设置Sim_param和cell_param参数（见附件），注册LTE网络；
+step3:设置APN；
+step4:在手机端安装iPerfApp.apk(见附件);
+	adb install iPerfApp.apk;
+step5:设定CPU频率；
+	echo 702000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq;
+	echo 702000 > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq;
+step6:在8475A上执行：iperf.exe –s –u(iperf.exe见附件)；
+step7:打开iPerfApp，执行  –c 192.168.1.2 –u –b 100000000 –t 1000；
+
